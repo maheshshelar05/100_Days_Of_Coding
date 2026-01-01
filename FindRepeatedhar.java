@@ -1,5 +1,5 @@
 import java.util.*;
-class FindDupliChar
+class FindRepeatedhar
 {
     public static void main(String args[]) 
     {
@@ -20,7 +20,7 @@ class FindDupliChar
 
             }
                 if(found==1)
-                System.out.println("Duplicate Char : "+ ch);
+                System.out.println("Repeated Char : "+ ch);
         }
     }
 }
